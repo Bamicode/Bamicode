@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bamidele Oni
 - 👀 I’m interested in Software development, Blockchain and Data Engineering
-- 🌱 I’m currently learning Python programming
+- 🌱 I’m currently On DevOps Engineering scholarship at Darey.io
 - 💞️ I’m looking to collaborate on anything Tech.
-- 📫 How to reach me +2348087659457; bamxpress@gmail.com
+- 📫 How to reach me Mobile: +2348153713420; Email: bamxpress@gmail.com WhatsApp: +2348087659457
 
 <!---
 Bamicode/Bamicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
